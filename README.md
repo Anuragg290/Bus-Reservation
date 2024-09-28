@@ -1,6 +1,5 @@
 # Bus-Reservation
 Seamless bus registration and real-time tracking through our website.
-
 This Bus Registration System streamlines bus registration for students, staff, and drivers. It enables users to register for buses, track bus locations, and provides drivers with tools to manage passenger counts and update bus locations. The system is developed using HTML, CSS, SQL, PHP, and Bootstrap.
 
 ## Features
